@@ -1,4 +1,5 @@
-# 컴퓨터활용능력 2급
+# 컴퓨터활용능력 2급  
+### (https://license.korcham.net/co/examguide.do?mm=21&cd=0103)
 
 ### 증명서
 
