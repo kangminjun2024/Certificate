@@ -2,4 +2,5 @@
 
 ### 증명서
 
-![cpt](https://user-images.githubusercontent.com/17943248/102708477-c6ca7380-42e6-11eb-90c3-2d1ad3ec51e9.png)
+![컴활2](https://github.com/kangminjun2024/Certificate/assets/162010036/166feb73-212f-4202-9224-bc02eed24be8)
+
