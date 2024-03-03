@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 # 📋 Certificate
 자격증 자체가 취업에서 엄청난 가점을 주거나 그사람에 대한 실력 자체를 증명하진 않는다.  
 다만, 자격증을 준비하며 쌓은 노력은 훌륭한 기술자가 되기 위해 시야를 넓혀줄 수 있는 좋은 방법중 하나이다.  
