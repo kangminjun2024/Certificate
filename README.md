@@ -5,12 +5,18 @@
 
 
 ### 국내 기술자격 / 주관기관 / 취득일
- - 정보관리기술사 / 한국산업인력공단 / (준비중) /  
+ - 정보관리기술사 / 한국산업인력공단 / (준비중)   
    (https://www.q-net.or.kr/crf005.do?id=crf00505&gSite=Q&jmCd=0601)
- - RA2급          /    한국의료기기안전정보원   / (준비중) / (https://edu.nids.or.kr/common/QualifiExam/main.do)
- - 정보처리기사     /     한국산업인력공단     / 2020.12 / (https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)
- - 정보통신기사     /     과학기술정보통신부   / 2020.08 / (https://www.cq.or.kr/qh_quagm01_003.do)
- - 리눅스마스터2급   /    한국정보통신진흥협회 / 2019.04 / (https://www.ihd.or.kr/introducesubject1.do)
- - GTQ 1급        /      한국생산성본부      / 2018.06 / (https://license.kpc.or.kr/nasec/qlfint/qlfint/selectGtqinfomg.do)
- - 컴퓨터활용능력 2급  /  대한상공회의소      / 2016.11 / (https://license.korcham.net/co/examguide.do?mm=21&cd=0103)
+ - RA2급          /    한국의료기기안전정보원   / (준비중)  
+   (https://edu.nids.or.kr/common/QualifiExam/main.do)
+ - 정보처리기사     /     한국산업인력공단     / 2020.12  
+   (https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)
+ - 정보통신기사     /     과학기술정보통신부   / 2020.08  
+   (https://www.cq.or.kr/qh_quagm01_003.do)
+ - 리눅스마스터2급   /    한국정보통신진흥협회 / 2019.04  
+   (https://www.ihd.or.kr/introducesubject1.do)
+ - GTQ 1급        /      한국생산성본부      / 2018.06  
+   (https://license.kpc.or.kr/nasec/qlfint/qlfint/selectGtqinfomg.do)
+ - 컴퓨터활용능력 2급  /  대한상공회의소      / 2016.11  
+   (https://license.korcham.net/co/examguide.do?mm=21&cd=0103)
    
