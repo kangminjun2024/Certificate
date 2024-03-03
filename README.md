@@ -5,7 +5,8 @@
 
 
 ### 국내 기술자격 / 주관기관 / 취득일
- - 정보관리기술사 / 한국산업인력공단 / (준비중) /   (https://www.q-net.or.kr/crf005.do?id=crf00505&gSite=Q&jmCd=0601)
+ - 정보관리기술사 / 한국산업인력공단 / (준비중) /
+   (https://www.q-net.or.kr/crf005.do?id=crf00505&gSite=Q&jmCd=0601)
  - RA2급          /    한국의료기기안전정보원   / (준비중) / (https://edu.nids.or.kr/common/QualifiExam/main.do)
  - 정보처리기사     /     한국산업인력공단     / 2020.12 / (https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)
  - 정보통신기사     /     과학기술정보통신부   / 2020.08 / (https://www.cq.or.kr/qh_quagm01_003.do)
