@@ -19,7 +19,7 @@
    (https://license.kpc.or.kr/nasec/qlfint/qlfint/selectGtqinfomg.do)
  - 컴퓨터활용능력 2급  /  대한상공회의소      / 2016.11  
    (https://license.korcham.net/co/examguide.do?mm=21&cd=0103)
- - RA 2급  /  한국의료기기안전정보원      / (준비중)
+ - RA 2급  /  한국의료기기안전정보원      / (준비중)  
    (https://edu.nids.or.kr/common/QualifiExam/main.do)
    
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
